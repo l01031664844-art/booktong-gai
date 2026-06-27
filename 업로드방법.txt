@@ -1,0 +1,17 @@
+책통클럽 서창자이점 최종 SEO 적용본 업로드 방법
+
+1. 이 압축파일을 먼저 압축 해제합니다.
+2. GitHub booktong-gai 저장소로 들어갑니다.
+3. 파일 추가 → 파일 업로드를 누릅니다.
+4. 아래 3개 파일을 올립니다.
+   - index.html
+   - robots.txt
+   - sitemap.xml
+5. Commit changes를 누릅니다.
+6. 1~5분 후 홈페이지가 바뀌면 Google Search Console에서 확인 버튼을 누릅니다.
+
+홈페이지 주소:
+https://l01031664844-art.github.io/booktong-gai/
+
+구글 사이트맵 제출 주소:
+https://l01031664844-art.github.io/booktong-gai/sitemap.xml
